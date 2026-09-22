@@ -1,18 +1,38 @@
-# Theme metadata
+# York University theme
+# Light palette with York University red (#E31837) as primary.
 name = "York"
 
-# Is theme light or dark?
-light = true
+[light]
+  # Primary / links — York University red
+  primary = "#E31837"
+  link = "#E31837"
+  link_hover = "#b3122c"
 
-# Primary
-primary = "#E31837"
+  # Menu (white navbar)
+  menu_primary = "#ffffff"
+  menu_text = "#34495e"
+  menu_text_active = "#E31837"
+  menu_title = "#34495e"
 
-# Menu
-menu_primary = "#fff"
-menu_text = "#34495e"
-menu_text_active = "#E31837"
-menu_title = "#34495e"
+  # Home sections
+  home_section_odd = "#ffffff"
+  home_section_even = "#ffffff"
 
-# Home sections
-home_section_odd = "#fff"
-home_section_even = "#fff"
+[dark]
+  # Primary / links — brightened York red for legibility on dark
+  primary = "#ff4d63"
+  link = "#ff4d63"
+  link_hover = "#ff7385"
+
+  # Page background
+  background = "#1a1d24"
+
+  # Menu
+  menu_primary = "#1c1d24"
+  menu_text = "rgba(255,255,255,0.75)"
+  menu_text_active = "#ff4d63"
+  menu_title = "#ffffff"
+
+  # Home sections
+  home_section_odd = "#1a1d24"
+  home_section_even = "#1a1d24"
