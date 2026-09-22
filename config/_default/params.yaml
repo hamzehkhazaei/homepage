@@ -38,8 +38,8 @@ header:
     align: r
     show_logo: true
     show_language: false
-    show_day_night: false
-    show_search: false
+    show_day_night: true
+    show_search: true
     highlight_active_link: false
 
 # Site footer
@@ -91,7 +91,7 @@ features:
       category: ''
       category_id: ''
   search:
-    provider: ''
+    provider: wowchemy
     algolia:
       app_id: ''
       api_key: ''
