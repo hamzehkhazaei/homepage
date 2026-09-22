@@ -1,0 +1,18 @@
+# Theme metadata
+name = "York"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#E31837"
+
+# Menu
+menu_primary = "#fff"
+menu_text = "#34495e"
+menu_text_active = "#E31837"
+menu_title = "#34495e"
+
+# Home sections
+home_section_odd = "#fff"
+home_section_even = "#fff"
