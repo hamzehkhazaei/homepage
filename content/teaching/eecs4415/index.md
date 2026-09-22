@@ -6,6 +6,8 @@ tags:
 - undergrad
 date: "2018-01-01T00:00:00Z"
 
+draft: true
+
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 

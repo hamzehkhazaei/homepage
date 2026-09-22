@@ -34,3 +34,5 @@ In distributed systems, one can choose from a variety of load balancing policies
 capacity provisioning schemes, power management policies, etc. Ideally, one would like to have answers to these questions 
 before investing the time and money to build a system. This course introduces students to stochastic and queuing 
 modeling to answer the above questions.
+
+I have been teaching this course every year since 2019.

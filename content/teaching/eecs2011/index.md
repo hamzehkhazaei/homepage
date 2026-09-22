@@ -7,6 +7,8 @@ tags:
 
 date: "2020-07-01T00:00:00Z"
 
+draft: true
+
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 

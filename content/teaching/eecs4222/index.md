@@ -1,6 +1,6 @@
 ---
 title: EECS 4222
-summary: Distributed Systems
+summary: Distributed Computing Systems
 
 tags:
 - undergrad
@@ -31,6 +31,33 @@ image:
 slides: example
 ---
 
-Coming Soon.   
-This is an introductory course in Distributed Systems. Distributed systems is the study of how to build a computer 
-system where the state of the program is divided over more than one machine (or "node").
+This is an introductory course in Distributed Computing Systems. This course is the study of how to design and
+implement a computer system where the state of the system is divided over multiple computing nodes. More
+specifically, this course teaches design and implementation techniques that enable the building of functional,
+usable, fast, fault-tolerant and scalable distributed systems. To make the issues more concrete, the class
+includes two projects requiring significant design and implementation which enable students to gain practical
+experience in designing, implementing, and debugging real distributed systems.
+
+In this course we use the Go programming language, which was designed for implementing distributed systems.
+For the most part, students learn this language on their own, with the TAs covering the fundamentals of Go and
+then practicing the language through the course projects during the biweekly labs.
+
+Topics include distributed communication models (e.g., sockets, remote procedure calls, distributed shared
+memory), distributed synchronization (clock synchronization, logical clocks, distributed mutex), distributed
+file systems, replication, consistency models, fault tolerance, QoS and performance, scheduling, concurrency,
+agreement and commitment, Paxos-based consensus, MapReduce and NoSQL datastores, decentralized systems, cloud
+infrastructures, microservices, and serverless computing.
+
+By the end of this course, students will be able to:
+- Apply communication protocols such as remote procedure calls, taking into account control semantics and
+  language limitations; implement serialization and de-serialization; apply the end-to-end argument in real
+  systems.
+- Analyze data caching and one-copy semantics, cache consistency protocols and implementation tradeoffs, and
+  temporal and spatial locality.
+- Trace failures in distributed systems using empirical studies such as fail-fast and Byzantine failures, and
+  identify fundamental limits of failure resilience.
+- Explain how to achieve consensus using unanimity (two-phase commit) and majority (leader election, Paxos).
+- Design and implement highly available systems using the basic concepts of replication with the latest
+  paradigms and design patterns in distributed cloud systems.
+
+I have been teaching this course every year since 2019.

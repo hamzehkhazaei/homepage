@@ -19,3 +19,5 @@ multiprogramming, concurrent processes, CPU scheduling, deadlocks, memory manage
 security. Many examples from real systems are given to illustrate the application of particular concepts. At the end of 
 this course, a student will be able to understand the principles and techniques required for understanding and designing 
 operating systems.
+
+I have been teaching this course every year since 2019.
