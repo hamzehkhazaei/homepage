@@ -39,6 +39,9 @@ social:
     link: https://github.com/hamzehkhazaei
 email: hkh@yorku.ca
 highlight_name: true
+aliases:
+  - /authors/admin/
+  - /authors/authors/
 user_groups:
   - Researchers
   - Visitors
