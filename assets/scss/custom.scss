@@ -1,8 +1,8 @@
 // Override this file to add your own SCSS styling.
 
-// Show teaching course images in full (no cropping) on cards.
+// Show teaching course images in full (no cropping, no side margins) on cards.
 .js-id-grad .article-banner,
 .js-id-undergrad .article-banner {
-  object-fit: contain;
-  background-color: #f5f5f5;
+  width: 100%;
+  height: auto;
 }
