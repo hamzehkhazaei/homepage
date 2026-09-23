@@ -35,4 +35,3 @@ capacity provisioning schemes, power management policies, etc. Ideally, one woul
 before investing the time and money to build a system. This course introduces students to stochastic and queuing 
 modeling to answer the above questions.
 
-I have been teaching this course every year since 2019.

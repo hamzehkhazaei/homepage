@@ -60,4 +60,3 @@ By the end of this course, students will be able to:
 - Design and implement highly available systems using the basic concepts of replication with the latest
   paradigms and design patterns in distributed cloud systems.
 
-I have been teaching this course every year since 2019.
