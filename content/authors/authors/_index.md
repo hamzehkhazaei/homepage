@@ -49,8 +49,7 @@ user_groups:
 ---
 
 I am an Associate Professor of computer science at York University. I am the director of
-the <a href="https://pacs.eecs.yorku.ca" target="_blank" rel="noopener"><span>Performant and Available
+the <a href="https://pacslab.github.io" target="_blank" rel="noopener"><span>Performant and Available
 Computing Systems (PACS) Lab</span></a>
-in which we analyze, model and design dependable software systems. If you are a prospective applicant or interested
-to learn more about my work please check the
-<a href="https://pacs.eecs.yorku.ca" target="_blank" rel="noopener"><span>PACS Lab</span></a> page.
+in which we analyze, model and design dependable software systems. If you are a prospective applicant and plan to apply please check the
+<a href="https://pacslab.github.io/prospective/" target="_blank" rel="noopener"><span>Join PACS Lab</span></a> page.
